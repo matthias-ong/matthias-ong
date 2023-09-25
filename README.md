@@ -1,6 +1,18 @@
-### Hi there 👋
-
+<article>
+  <div align=center>
+    <h1>Hello! 🍅</h1>
+    <p>My name is Matthias, I am a Computer Science student from Singapore Institute of Technology</p>
+    <p>I love technology and I want to solve problems with them!</p>
+    <p><strong>📧 <i><a align="center" href="mailto: matthias.ong99@gmail.com">matthias.ong99@gmail.com</a><i></strong><p/>
+    <a href="https://www.linkedin.com/in/matthias-ongse/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matthias's LinkedIn"/>
+    </a>
+  </div>
+  
+</article>
+      
 <!--
+### Hi there 👋
 **matthias-ong/matthias-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
